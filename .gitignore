@@ -1,5 +1,2 @@
-.DS_Store
-*.save.*
 notas.txt
 *.log
-.gitignore.save
