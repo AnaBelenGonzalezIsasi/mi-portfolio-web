@@ -2,3 +2,4 @@
 *.save.*
 notas.txt
 *.log
+.gitignore.save
